@@ -24,4 +24,4 @@ The project consists of three main files:
 - Loads a trained model and performs inference on new images.
 - Supports **top-K class predictions**.
 
-![Project Completion](image/Project_Completion)
+<img src="image/Project_Completion" alt="Project Completion" width="400" height="400">
