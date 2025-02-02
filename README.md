@@ -12,7 +12,7 @@ The project consists of three main files:
 -Trains a deep learning-based image classifier
 -Use the trained classifier to predict image content
 -The trained model is saved as a checkpoint along with associated hyperparameters
-- Visualizes the model’s performance as.
+- Visualizes the model’s performance.
 
 ### 2. `train.py`
 - Handles the training of the neural network on a dataset of flower images.
