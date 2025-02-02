@@ -6,12 +6,12 @@ This project is part of Udacity's AWS AI & ML Scholarship Nanodegree program. It
 The project consists of three main files:
 
 
-### 1. `Image_Classifier_Project_final.`ipynb`
+### 1. `Image_Classifier_Project_final.ipynb`
 - A Jupyter Notebook that integrates training and inference steps.
--Loads and preprocesses the image dataset
--Trains a deep learning-based image classifier
--Use the trained classifier to predict image content
--The trained model is saved as a checkpoint along with associated hyperparameters
+- Loads and preprocesses the image dataset
+- Trains a deep learning-based image classifier
+- Use the trained classifier to predict image content
+- The trained model is saved as a checkpoint along with associated hyperparameters
 - Visualizes the model’s performance.
 
 ### 2. `train.py`
